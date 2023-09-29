@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "3A20BB4D+3A20BB4D+B4615B66+7662CBA4"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Energy"
+cheat1_code = "AFB3390F+B3F056DE"
+cheat1_enable = false
+
+cheat2_desc = "Infinte Health"
+cheat2_code = "ED37B923+DD7C42CE"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "E65788DB+948AE4BC"
+cheat3_enable = false
