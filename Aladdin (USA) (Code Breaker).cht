@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Aladdin Invulnerable"
+cheat0_code = "C2E80ACF+9158CAE6+65DA389A+09D8882C"
+cheat0_enable = false
+
+cheat1_desc = "Jump Higher"
+cheat1_code = "CE6D9E99+DDCF1C0F+FC8260A2+8D50E59D"
+cheat1_enable = false
+
+cheat2_desc = "Moonjump"
+cheat2_code = "04A7E6CA+E5352D09+0F2BEAF4+5C7158B9+EA43BF94+4E2EF18B"
+cheat2_enable = false
+
+cheat3_desc = "Take Apples Anywhere"
+cheat3_code = "862AC467+D0555163+E5EB6FE0+C757B779"
+cheat3_enable = false
+
+cheat4_desc = "Take Gems Anywhere"
+cheat4_code = "6560A2E7+6B1E9631+65DA389A+09D8882C"
+cheat4_enable = false
