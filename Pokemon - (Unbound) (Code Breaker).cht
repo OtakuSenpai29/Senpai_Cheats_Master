@@ -1,4 +1,4 @@
-cheats = 15
+cheats = 17
 
 cheat0_desc = "Infinite Money"
 cheat0_code = "820257BC+423F+820257BE+000F"
@@ -32,5 +32,38 @@ cheat7_desc = "Sun Stone"
 cheat7_code = "82025804+005D"
 cheat7_enable = false
 
-cheat8_desc = "Sun Stone"
-cheat8_code 
+cheat8_desc = "Moon Stone"
+cheat8_code = "82025804+005E"
+cheat8_enable = " false
+
+cheat9_desc = "Fire Stone"
+cheat9_code = "82025804+005F"
+cheat9_enable = false
+
+cheat10_desc = "Thunder Stone"
+cheat10_code = "82025804+0060"
+cheat10_enable = false
+
+cheat11_desc = "Water Stone"
+cheat11_code = "82025804+0061"
+cheat11_enable = false
+
+cheat12_desc = "Leaf Stone"
+cheat12_code = "82025804+0062"
+cheat12_enable = false
+
+cheat13_desc = "Ice Stone"
+cheat13_code = "82025804+0069"
+cheat13_enable = false
+
+cheat14_desc = "Heart Scale"
+cheat14_code = "82025804+006F"
+cheat14_enable = false
+
+cheat15_desc = "Pokemon (Generation 8)"
+cheat15_code = "8202404+044E"
+cheat15_enable = false
+
+cheat16_desc = "Max Stat"
+cheat16_code = "420242DA+03E7+00000007+0002"
+cheat16_enable = false
