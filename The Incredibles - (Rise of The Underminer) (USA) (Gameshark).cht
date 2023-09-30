@@ -1,7 +1,7 @@
 cheats = 4
 
 cheat0_desc = "Enable Code (Must Be On)"
-cheat0_code = "3A20BB4D+3A20BB4D+B4615B66+7662CBA4"
+cheat0_code = "3A20BB4D+701DD550+B4615B66+7662CBA4"
 cheat0_enable = false
 
 cheat1_desc = "Infinite Energy"
