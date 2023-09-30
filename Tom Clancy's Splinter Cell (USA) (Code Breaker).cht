@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "00003989+000A+1007A340+0007"
+cheat0_enable = false
+
+cheat1_desc = "Invulnerability"
+cheat1_code = "33003FE9+000A"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "330077AA+000A"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Bullet"
+cheat3_code = "330077C2+0099"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Gas Grenade"
+cheat4_code = "630077C2+0800"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Gun Ammo"
+cheat5_code = "330077C2+0063"
+cheat5_enable = false
+
+cheat6_desc = "Alarm Are Faulty"
+cheat6_code = "330076BF+0006+330076C0+0000"
+cheat6_enable = false
