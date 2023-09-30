@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "98D95646823C+1DDDD86293E8+F9263F485181"
+cheat0_enable = false
+
+cheat1_desc = "Have All Scrolls"
+cheat1_code = "8C2559843E96+3D475DF75151"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Chi"
+cheat2_code = "1C2E179E4E17+3D475DF75151"
+cheat2_enable = false
+
+cheat3_desc = "Infinte Health"
+cheat3_code = "063BA796BE1F+3D475DF75151"
+cheat3_enable = false
