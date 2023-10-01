@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Debug"
+cheat0_code = "03007C28+04"
+cheat0_enable = false
