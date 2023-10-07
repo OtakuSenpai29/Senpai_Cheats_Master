@@ -1,0 +1,29 @@
+cheats = 7 
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "0668F3BD+30A87221+16B39D6B+B0F6F71D"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Flashbang"
+cheat1_code = "FB4CC6AB+3E513062"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "3099B99B+55DF6E02"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Smoke Grenade"
+cheat3_code = "E43952D3+BD7A6338"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Time"
+cheat4_code = "5984458C+42C743A1"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Transporder"
+cheat5_code = "27353A34+F1C1F6F8"
+cheat5_enable = false
+
+cheat6_desc = "One Hit Kill"
+cheat6_code = "294E3E89+7C8B5209+25260C8D+25207DAE"
+cheat6_enable = false 
