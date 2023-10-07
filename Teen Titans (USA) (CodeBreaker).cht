@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "5CA7DE10E078+3B977B4B4AA6"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Super Power"
+cheat1_code = "822C85D7753F+3B977B4B4AA6"
+cheat1_enable = false
