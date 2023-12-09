@@ -1,0 +1,22 @@
+import java.util.Scanner
+
+fun main() {
+    // Create a Scanner object for user input
+    val scanner = Scanner(System.`in`)
+
+    // Prompt the user for input
+    print("Enter the first number: ")
+    val num1 = scanner.nextDouble()
+
+    print("Enter the second number: ")
+    val num2 = scanner.nextDouble()
+
+    // Perform a simple calculation (sum in this case)
+    val sum = num1 + num2
+
+    // Print the result
+    println("The sum of $num1 and $num2 is: $sum")
+
+    // Close the scanner to avoid resource leaks
+    scanner.close()
+}
